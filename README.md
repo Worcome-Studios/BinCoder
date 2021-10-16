@@ -1,0 +1,2 @@
+# BinCoder
+Editor de texto
